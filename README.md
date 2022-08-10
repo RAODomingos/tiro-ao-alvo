@@ -4,4 +4,5 @@ Jogo desenvolvido no curso de Logica de Programação da Alura no programa One -
 
 #Acesso ao jogo desenvolvido (hospedado no Netlify/drop)
 
-[Acesse o Jogo](https://tiro-ao-alvo-raodomingos.netlify.app/)
+[Acesse o Jogo](https://tiro-ao-alvo-raodomingos.netlify.app/) e acerte no centro do alvo. 
+
